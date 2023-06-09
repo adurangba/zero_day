@@ -1,0 +1,10 @@
+
+* what is vagrant?
+
+Vagrant is an open-source tool for creating and managing portable development environments. It simplifies the setup and configuration of virtual machines, providing a consistent and reproducible environment across different platforms. Vagrant uses configuration files to automate the provisioning and deployment of virtual machines, making it easier for developers to collaborate and share their development environments.
+
+* what is ubuntu?
+Ubuntu is a popular open-source Linux distribution based on Debian. It provides a user-friendly and customizable operating system with a focus on ease of use and community-driven development. Ubuntu is known for its stability, security, and vast software repository, making it a popular choice for desktop and server environments.
+
+* what is virtual machine?
+A virtual machine is a software emulation of a physical computer that runs on a host machine. It allows multiple operating systems to coexist on a single physical machine, providing isolation and flexibility. Each virtual machine has its own virtual hardware, including CPU, memory, storage, and network interfaces.
